@@ -82,7 +82,9 @@ Explore my work below and watch each presentation in action.
 I'm ready to help turn your ideas into a professional presentation.
 
 <a href="https://www.upwork.com/freelancers/~01eab35773da1f54f4?mp_source=share">▶️ Offer your work on Upwork</a>
-[Or contact me on WhatsApp](https://wa.me/+213540251007)
+---------------------------------------------------------------
+ <td width="50%" align="center">
+Or [contact me on WhatsApp](https://wa.me/+213540251007)
 
 Thank you for visiting my portfolio!
 

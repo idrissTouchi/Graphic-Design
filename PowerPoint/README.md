@@ -19,7 +19,7 @@ Explore my work below and watch each presentation in action.
     <td width="50%" align="center">
       <h3>PowerPoint Presentation 01</h3>
       <a href="https://youtu.be/LrNm3bd_9aI">
-        <img src="images/1.png" alt="PowerPoint Presentation 01" width="100%">
+        <img src="images/1.jpg" alt="PowerPoint Presentation 01" width="100%">
       </a>
       <p>Professional slide design and visual storytelling.</p>
       <a href="https://youtu.be/LrNm3bd_9aI">▶️ Watch Presentation</a>
@@ -27,7 +27,7 @@ Explore my work below and watch each presentation in action.
     <td width="50%" align="center">
       <h3>PowerPoint Presentation 02</h3>
       <a href="https://youtu.be/sPKnpRs1hXE">
-        <img src="images/2.png" alt="PowerPoint Presentation 02" width="100%">
+        <img src="images/2.jpg" alt="PowerPoint Presentation 02" width="100%">
       </a>
       <p>Creative layouts and engaging presentation visuals.</p>
       <a href="https://youtu.be/sPKnpRs1hXE">▶️ Watch Presentation</a>
@@ -37,7 +37,7 @@ Explore my work below and watch each presentation in action.
     <td width="50%" align="center">
       <h3>PowerPoint Presentation 03</h3>
       <a href="https://youtu.be/748_Vu3PEhs">
-        <img src="images/3.png" alt="PowerPoint Presentation 03" width="100%">
+        <img src="images/3.jpg" alt="PowerPoint Presentation 03" width="100%">
       </a>
       <p>Carefully designed slides with a focus on clarity.</p>
       <a href="https://youtu.be/748_Vu3PEhs">▶️ Watch Presentation</a>
@@ -45,7 +45,7 @@ Explore my work below and watch each presentation in action.
     <td width="50%" align="center">
       <h3>PowerPoint Presentation 04</h3>
       <a href="https://youtu.be/22ocWcjFW2Q">
-        <img src="images/4.png" alt="PowerPoint Presentation 04" width="100%">
+        <img src="images/4.jpg" alt="PowerPoint Presentation 04" width="100%">
       </a>
       <p>Modern presentation design with polished visuals.</p>
       <a href="https://youtu.be/22ocWcjFW2Q">▶️ Watch Presentation</a>
@@ -55,7 +55,7 @@ Explore my work below and watch each presentation in action.
     <td colspan="2" align="center">
       <h3>PowerPoint Presentation 05</h3>
       <a href="https://youtu.be/B2Dwgv6VXZo">
-        <img src="images/5.png" alt="PowerPoint Presentation 05" width="70%">
+        <img src="images/5.jpg" alt="PowerPoint Presentation 05" width="70%">
       </a>
       <p>Another example of my PowerPoint design work.</p>
       <a href="https://youtu.be/B2Dwgv6VXZo">▶️ Watch Presentation</a>

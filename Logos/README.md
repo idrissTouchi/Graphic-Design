@@ -21,6 +21,10 @@
 | **19** | **20** | **21** |
 | <a href="Images/text19.jpg"><img src="Images/text19.jpg" width="220" alt="Logo 19"/></a> | <a href="Images/text20.jpg"><img src="Images/text20.jpg" width="220" alt="Logo 20"/></a> | <a href="Images/text21.jpg"><img src="Images/text21.jpg" width="220" alt="Logo 21"/></a> |
 | **22** | **23** | **24** |
+| <a href="Images/text22.jpg"><img src="Images/text22.jpg" width="220" alt="Logo 22"/></a> | <a href="Images/text23.jpg"><img src="Images/text23.jpg" width="220" alt="Logo 23"/></a> | <a href="Images/text24.jpg"><img src="Images/text24.jpg" width="220" alt="Logo 24"/></a> |
+
+</div>
+
 
 <div align="center">
 
@@ -179,9 +183,6 @@ I see every project as an opportunity to learn, innovate, and create something v
 **Creative thinking. Purposeful design. Meaningful results.**
 
 *The best design begins with understanding — and grows through creativity.*
-
-</div>
-| <a href="Images/text22.jpg"><img src="Images/text22.jpg" width="220" alt="Logo 22"/></a> | <a href="Images/text23.jpg"><img src="Images/text23.jpg" width="220" alt="Logo 23"/></a> | <a href="Images/text24.jpg"><img src="Images/text24.jpg" width="220" alt="Logo 24"/></a> |
 
 </div>
 

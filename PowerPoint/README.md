@@ -61,12 +61,12 @@ Explore my work below and watch each presentation in action.
       <a href="https://youtu.be/B2Dwgv6VXZo">▶️ Watch Presentation</a>
     </td>
     <td colspan="2" align="center">
-      <h3>PowerPoint Presentation 05</h3>
-      <a href="https://youtu.be/B2Dwgv6VXZo">
+      <h3>PowerPoint Presentation 06</h3>
+      <a href="https://youtu.be/H2xjZnuUv4g">
         <img src="images/6.jpg" alt="PowerPoint Presentation 06" width="70%">
       </a>
       <p>Another example of my PowerPoint design work.</p>
-      <a href="[https://youtu.be/B2Dwgv6VXZo](https://youtu.be/H2xjZnuUv4g?si=_4OHA20ygFIUzh3Y)">▶️ Watch Presentation</a>
+      <a href="https://youtu.be/H2xjZnuUv4g">▶️ Watch Presentation</a>
     </td>
   </tr>
 </table>

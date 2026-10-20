@@ -52,18 +52,18 @@ Explore my work below and watch each presentation in action.
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" align="center">
       <h3>PowerPoint Presentation 05</h3>
       <a href="https://youtu.be/B2Dwgv6VXZo">
-        <img src="images/5.jpg" alt="PowerPoint Presentation 05" width="70%">
+        <img src="images/5.jpg" alt="PowerPoint Presentation 05" width="100%">
       </a>
       <p>Another example of my PowerPoint design work.</p>
       <a href="https://youtu.be/B2Dwgv6VXZo">▶️ Watch Presentation</a>
     </td>
-    <td colspan="2" align="center">
+    <td width="50%" align="center">
       <h3>PowerPoint Presentation 06</h3>
       <a href="https://youtu.be/H2xjZnuUv4g">
-        <img src="images/6.jpg" alt="PowerPoint Presentation 06" width="70%">
+        <img src="images/6.jpg" alt="PowerPoint Presentation 06" width="100%">
       </a>
       <p>Another example of my PowerPoint design work.</p>
       <a href="https://youtu.be/H2xjZnuUv4g">▶️ Watch Presentation</a>
